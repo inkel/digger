@@ -18,7 +18,7 @@ require (
 )
 
 require (
-	github.com/diggerhq/lib-digger-config v0.0.0-20230824131856-20c017537bb3
+	github.com/diggerhq/lib-digger-config v0.0.0-20230824142939-83044a6a36df
 	github.com/dominikbraun/graph v0.23.0
 	github.com/google/go-github/v53 v53.2.0
 	github.com/gruntwork-io/terragrunt v0.36.6
