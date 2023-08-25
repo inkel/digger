@@ -21,7 +21,7 @@ require (
 	github.com/diggerhq/lib-digger-config v0.0.0-20230824131856-20c017537bb3
 	github.com/dominikbraun/graph v0.23.0
 	github.com/google/go-github/v53 v53.2.0
-	github.com/gruntwork-io/terragrunt v0.36.6
+	github.com/gruntwork-io/terragrunt v0.50.7
 	github.com/hashicorp/go-getter v1.7.2
 	github.com/hashicorp/hcl/v2 v2.11.1
 	github.com/hashicorp/terraform-config-inspect v0.0.0-20230808231734-f15f31bf62b3
