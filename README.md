@@ -19,8 +19,8 @@ Digger runs terraform natively in your CI. This is:
 
 ## Features
 - Terraform plan and apply in pull request comments
-- Any VCS - Github, Gitlab, Azure Repos, etc
-- Any CI - Github Actions, Gitlab, Azure DevOps, etc
+- Any VCS - GitHub, Gitlab, Azure Repos, etc
+- Any CI - GitHub Actions, Gitlab, Azure DevOps, etc
 - Any cloud provider - AWS, GCP, Azure
 - Private runners - thanks to the fact that there are no separate runners! Your existing CI's compute environment is used
 - Open Policy Agent (OPA) support for RBAC
@@ -31,8 +31,8 @@ Digger runs terraform natively in your CI. This is:
 
 ## Getting Started
 
-- [Github Actions + AWS](https://docs.digger.dev/getting-started/github-actions-+-aws)
-- [Github Actions + GCP](https://docs.digger.dev/getting-started/github-actions-and-gcp)
+- [GitHub Actions + AWS](https://docs.digger.dev/getting-started/github-actions-+-aws)
+- [GitHub Actions + GCP](https://docs.digger.dev/getting-started/github-actions-and-gcp)
 - [Gitlab Pipelines + AWS](https://docs.digger.dev/getting-started/gitlab-pipelines-+-aws)
 - [Azure DevOps](https://docs.digger.dev/getting-started/azure-devops)
 
@@ -49,7 +49,7 @@ No sensitive or personal / identifyable data is logged. You can see what is trac
 
 ## Contributing
 
-We love contributions. Check out our [contribiting guide](CONTRIBUTING.md) to get started. 
+We love contributions. Check out our [contributing guide](CONTRIBUTING.md) to get started. 
 
 Not sure where to get started? You can:
 
